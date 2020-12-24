@@ -5,8 +5,8 @@ To run the application
 
 2. Run the command prompt (preferably with administrative power).
 
-3. Run the following code in the command prompt
-python3 todo.py
+3. Run the following code in the command prompt  
+*python3 todo.py*
 
 4. A list of actions that can be performed will show up.
 
